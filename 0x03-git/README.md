@@ -1,1 +1,1 @@
-My first readme in this directory
+Some text for this readme
